@@ -1,0 +1,30 @@
+# Power BI temp files
+*.tmp
+*.temp
+
+# Auto recovery
+*.pbix.autosave
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code
+.vscode/
+
+# Python (if used)
+__pycache__/
+*.pyc
+
+# Jupyter (if used)
+.ipynb_checkpoints/
+
+# DAX Studio exports
+*.xlsx
+*.csv
+
+# Tabular Editor backups
+*.bim.bak

@@ -1,3 +1,5 @@
+<h1 align="center">HR Attrition Dashboard (IBM Dataset)</h1>
+
 ![Dashboard](Dashboard.png)
 
 ---

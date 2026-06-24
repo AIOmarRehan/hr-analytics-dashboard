@@ -91,6 +91,26 @@ Covers the engagement and happiness side of attrition. Side-by-side comparison o
 
 ---
 
+## **My Dashboard**
+
+### **EXECUTIVE OVERVIEW**
+
+![EXECUTIVE OVERVIEW](EXECUTIVE OVERVIEW.jpg)
+
+### **DEPARTMENT & EMPLOYEE ANALYSIS**
+
+![DEPARTMENT & EMPLOYEE ANALYSIS](DEPARTMENT & EMPLOYEE ANALYSIS.jpg)
+
+### **SALARY ANALYSIS**
+
+![SALARY ANALYSIS](SALARY ANALYSIS.jpg)
+
+### **SATISFACTION ANALYSIS**
+
+![SATISFACTION ANALYSIS](SATISFACTION ANALYSIS.jpg)
+
+---
+
 ## Key Findings
 
 Based on the data and the measures built:

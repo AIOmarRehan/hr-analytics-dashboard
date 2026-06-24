@@ -1,3 +1,7 @@
+![Dashboard](Dashboard.png)
+
+---
+
 [Medium Artilce](https://medium.com/@ai.omar.rehan/i-built-an-hr-attrition-dashboard-in-power-bi-here-is-what-the-data-actually-told-me-02888ea3d5e5)
 
 ---

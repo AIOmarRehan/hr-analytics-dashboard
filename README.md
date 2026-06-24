@@ -102,4 +102,4 @@ Based on the data and the measures built:
 
 ## Dataset
 
-IBM HR Analytics Employee Attrition dataset. 1,470 rows, 35 original columns. Publicly available on Kaggle.
+[IBM HR Analytics Employee Attrition dataset. 1,470 rows, 35 original columns. Publicly available on Kaggle.](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)

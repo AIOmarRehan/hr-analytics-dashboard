@@ -1,3 +1,7 @@
+[Medium Artilce](https://medium.com/@ai.omar.rehan/i-built-an-hr-attrition-dashboard-in-power-bi-here-is-what-the-data-actually-told-me-02888ea3d5e5)
+
+---
+
 # HR Analytics Dashboard - Employee Attrition Analysis
 
 A Power BI project built on the IBM HR Analytics dataset, focused on understanding why employees leave and giving management a clear picture of where the risks are.
